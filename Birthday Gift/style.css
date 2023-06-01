@@ -1,0 +1,25 @@
+body {
+  font-family: "Happy Monkey", cursive;
+  background: #a2d2ff;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  text-shadow: 1px 1px 1px #000;
+}
+#mvp {
+  width: 300px;
+  border-radius: 50%;
+  border: 10px solid #efb0c9;
+}
+
+h2,
+h4 {
+  background: pink;
+}
