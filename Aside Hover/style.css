@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+  color: white;
+  margin: 5px;
+  padding: 25px 0;
+  font-size: 30px;
+  background: #e5383b;
+  font-weight: bold;
+}
+div:hover {
+  background: #711011;
+}
