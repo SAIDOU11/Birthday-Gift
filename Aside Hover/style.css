@@ -8,5 +8,7 @@ div {
   font-weight: bold;
 }
 div:hover {
-  background: #711011;
+  background-image: url("./images/healthy.jpg");
+  color: black;
+  font-size: 40px;
 }
